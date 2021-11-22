@@ -1,7 +1,7 @@
 /* eslint-disable import/no-anonymous-default-export */
 
 const initialState = {
-    speed:200,
+    speed:2000,
     direction: 'RIGHT',
     snakeDots: [
       [0,0],
